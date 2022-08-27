@@ -1,0 +1,5 @@
+.vs/
+bin/Debug
+obj/
+bin/Release/*
+!bin/Release/Livesplit.Cuphead.dll
